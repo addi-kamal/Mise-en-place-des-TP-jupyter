@@ -36,13 +36,13 @@ git add .
 git commit -m "premier depot"
 ```
 
-4. Synchronisez votre repertoire avec votre repo github
+4. Synchronisez votre repertoire avec votre repo github (l'adresse https correspond à l'url de votre repo sur github + ".git")
 
 ```
 git remote add origin https://github.com/XXX/XXX.git
 ```
 
-5. Deposez votre premier commit sur github
+5. Deposez votre premier "commit" sur github
 
 ```
 git push -u origin master

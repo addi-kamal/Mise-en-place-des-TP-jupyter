@@ -5,7 +5,7 @@
 Pour pouvoir créer des TPs sous Jupyter et herberger ces TP sur Github, il faut
 
 * Un compte github: www.github.com
-* le logiciel Jupyter Notebook (idéalement installez Anaconda: https://www.anaconda.com/download/)
+* le logiciel Jupyter Notebook (ou mieux Anaconda: https://www.anaconda.com/download/)
 
 ## Création d'un notebook Jupyter
 
